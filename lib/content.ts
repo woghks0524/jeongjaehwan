@@ -159,6 +159,13 @@ export const shelves: Shelf[] = [
       { name: "진로체험센터 찾기", what: "서울 25개 진로체험센터 프로그램을 찾습니다.", who: "교사", url: "https://center-finder-dun.vercel.app" },
     ],
   },
+  {
+    title: "수업 밖에서",
+    note: "교실 도구를 만들며 익힌 것으로 일상에 필요한 것도 만듭니다.",
+    apps: [
+      { name: "모바일 청첩장 샘플", what: "애니메이션풍 그림과 가상 정보로 만든 모바일 청첩장 예시입니다.", who: "누구나", url: "https://wedding-sample-jjh.vercel.app" },
+    ],
+  },
 ];
 
 export const research = [
