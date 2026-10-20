@@ -142,7 +142,7 @@ export const shelves: Shelf[] = [
     title: "AI 원리와 코딩",
     note: "AI를 쓰는 법보다 AI가 어떻게 배우는지를 손으로 만져 보게 합니다.",
     apps: [
-      { name: "AI 놀이터", what: "슬라이더를 움직이며 경사하강법 같은 학습 원리를 체험합니다.", who: "학생, 교사 연수", url: "https://ai-playground-pi-khaki.vercel.app" },
+      { name: "AI 놀이터", what: "슬라이더를 움직이며 경사하강법 같은 학습 원리를 체험합니다.", who: "학생, 교사 연수", url: "https://how-ai.vercel.app" },
       { name: "KNN 알고리즘 교실", what: "가까운 이웃에게 물어보는 분류 방법을 6차시로 배웁니다.", who: "초4·6", url: "https://knn-game.vercel.app" },
       { name: "이웃의 힘", what: "KNN 보드게임을 한 화면 두 팀 대결로 옮겼습니다.", who: "초4·6", url: "https://neighbor-power.vercel.app" },
       { name: "라쿤봇 코딩", what: "AI 로봇팔을 블록·조종·텍스트로 코딩하고 가상으로 움직여 봅니다.", who: "학생", url: "https://raccoonbot-eight.vercel.app" },
